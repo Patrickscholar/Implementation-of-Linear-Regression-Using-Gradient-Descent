@@ -14,16 +14,18 @@ To write a program to predict the profit of a city using the linear regression m
 4. 
 
 ## Program:
-```
+<img width="530" alt="Screenshot 2024-11-15 at 7 56 26 AM" src="https://github.com/user-attachments/assets/5359438e-e536-459b-9d5c-be728b54c472">
+
 /*
 Program to implement the linear regression using gradient descent.
-Developed by: 
-RegisterNumber:  
+Developed by: V.Patrick alex emmanuel
+RegisterNumber: 24900019
 */
 ```
 
 ## Output:
-![linear regression using gradient descent](sam.png)
+<img width="583" alt="Screenshot 2024-11-15 at 7 56 57 AM" src="https://github.com/user-attachments/assets/f09c51bd-a5c0-44c3-8d09-5d787513ebc6">
+
 
 
 ## Result:
