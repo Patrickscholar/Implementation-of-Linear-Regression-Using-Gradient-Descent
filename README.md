@@ -21,7 +21,7 @@ Program to implement the linear regression using gradient descent.
 Developed by: V.Patrick alex emmanuel
 RegisterNumber: 24900019
 */
-```
+
 
 ## Output:
 <img width="583" alt="Screenshot 2024-11-15 at 7 56 57 AM" src="https://github.com/user-attachments/assets/f09c51bd-a5c0-44c3-8d09-5d787513ebc6">
